@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://srisaisaketh.vercel.app/resume](https://srisaisaketh.vercel.app/resume)
 
-- ⚡ Fun fact **I love playing check and I am up for a game anytime**
+- ⚡ Fun fact **I love playing chess and I am up for a game anytime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
