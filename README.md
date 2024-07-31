@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sri Sai Saketh</h1>
 <h3 align="center">A passionate Software Engineer with interests in Full Stack Web/Mobile Development and a love for learning & developing AI Applications</h3>
 
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=default_repocard&animation=default&layout=churchill&font=Architect&fontColor=green&bgColor=black)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=default&layout=zues&font=Architect&fontColor=red&bgColor=black)
 
 - 🔭 I’m currently working on [Disaster Accountability Project](https://disasteraccountability.org/)
 
